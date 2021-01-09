@@ -27,7 +27,7 @@
     "mfp": "git+https://git@github.com/KrauseFx/mfp.git",
     "moment": "^2.29.1",
     "needle": "^2.5.2",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.0",
     "tsd": "^0.13.1",
     "typescript": "^3.9.7"
   }
